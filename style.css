@@ -1,0 +1,23 @@
+.big-title{
+  color:  yellow;
+  font-size: 10rem;
+  font-family: cursive;
+}
+
+
+.margin-50{
+  margin: 5px;
+}
+
+.makeaborder{
+  border-style: groove;
+  border-color: green;
+}
+
+
+.namefame{
+  color: grey;
+  font-size: 4rem;
+  font-family: sans-serif;
+  font-weight: 600;
+}
